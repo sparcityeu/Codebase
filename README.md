@@ -1,6 +1,6 @@
 # Codebase
 
-Codebase contains source code for variout tool and frameworks produced during SparSity project execution.
+Codebase contains source code for variout tool and frameworks produced during SparCity project execution.
 
 ## Performance Evaluation
 
