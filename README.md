@@ -20,5 +20,4 @@ Codebase contains source code for various tools and frameworks produced during S
 
 ## Mixed and Multi-Precision SpMV
 
-Repository link for row-based mixed and multi-precision code for SpMV: https://github.com/ParCoreLab/mixed-and-multi-spmv
-
+[Repository link](https://github.com/ParCoreLab/mixed-and-multi-spmv) for row-based mixed and multi-precision code for SpMV. 
