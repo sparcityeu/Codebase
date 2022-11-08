@@ -18,6 +18,7 @@ Codebase contains source code for various tools and frameworks produced during S
 
 [ReuseTracker](https://github.com/ParCoreLab/ReuseTracker) tool is used to measure reuse distance in private and shared caches on multithreaded code.
 
-## Mixed Precision
+## Mixed and Multi-Precision SpMV
 
-(https://github.com/ParCoreLab/mixed-and-multi-spmv)) 
+Repository link for row-based mixed and multi-precision code for SpMV: https://github.com/ParCoreLab/mixed-and-multi-spmv
+
