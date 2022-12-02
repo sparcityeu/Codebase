@@ -26,3 +26,6 @@ Codebase contains source code for various tools and frameworks produced during S
 
 [Yloc](https://github.com/sparcityeu/yloc) is a dynamic topology information system.
 
+## Machine learning-based Feature Extraction 
+
+[Jaccard-ML](https://github.com/SU-HPC/Jaccard-ML) is a machine learning-based Jaccard Weight calculation tool.
