@@ -21,3 +21,8 @@ Codebase contains source code for various tools and frameworks produced during S
 ## Mixed and Multi-Precision SpMV
 
 [Repository link](https://github.com/ParCoreLab/mixed-and-multi-spmv) for row-based mixed and multi-precision code for SpMV. 
+
+## Toplogy and Communication Optimization Tools
+
+[Yloc](https://github.com/sparcityeu/yloc) A dynamic topology information system
+
