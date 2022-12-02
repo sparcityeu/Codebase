@@ -24,5 +24,5 @@ Codebase contains source code for various tools and frameworks produced during S
 
 ## Toplogy and Communication Optimization Tools
 
-[Yloc](https://github.com/sparcityeu/yloc) A dynamic topology information system
+[Yloc](https://github.com/sparcityeu/yloc) is a dynamic topology information system.
 
